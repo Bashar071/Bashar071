@@ -47,7 +47,7 @@ I enjoy taking a rough idea, giving it a clear shape, and shipping it. This prof
 
 ## 🧰 Toolkit
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,html,css,python,mysql,arduino,linux,replit,blender,vscode&perline=10" alt="Technology icons" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,html,css,python,mysql,arduino,linux,replit,blender,vscode&perline=11" alt="Technology icons" /></a>
 
 </div>
 
